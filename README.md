@@ -2,6 +2,12 @@
 
 This plugin simplifies the testing of action handlers within component tests. It inspects test templates and extracts the action definitions, automatically creating a spy that will be called when the action fires.  
 
+# Installation
+
+This addon requires that the ember-sinon addon also be installed via ember
+```bash
+ember install ember-cli-autospy ember-sinon
+```
 
 # Actions
 
