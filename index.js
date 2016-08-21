@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'init'
+  name: 'ember-cli-autospy'
 };
